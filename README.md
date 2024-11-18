@@ -53,8 +53,8 @@ Hello there! I'm Maria Layane, a technology enthusiast passionate about creativi
 ---
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marialayane&show_icons=true&theme=greenery" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialayane&layout=compact&theme=greenery" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marialayanee&show_icons=true&theme=greenery" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialayanee&layout=compact&theme=greenery" />
 </div>
 
 ---
