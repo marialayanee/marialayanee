@@ -6,6 +6,7 @@
   Hello, World! 🌍
 </h1> 
 
+
 <img src="https://media.giphy.com/media/q04LWeH7IDaZsDkBkf/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 Hello there! I'm Maria Layane, a technology enthusiast passionate about creativity and innovation. 🚀 On my journey to become an **Information Systems professional**, I explore various fields in tech and love sharing knowledge along the way.
