@@ -49,14 +49,6 @@ Hello there! I'm Maria Layane, a technology enthusiast passionate about creativi
 - Cozinhar receitas novas 🍳
 - Brincar com minha cadela 🐶❤️
 
-
----
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marialayanee&show_icons=true&theme=greenery" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialayanee&layout=compact&theme=greenery" />
-</div>
-
 ---
 
 ✉️ Feel free to reach out to me:
